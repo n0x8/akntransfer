@@ -1,0 +1,21 @@
+{
+  "posts": 
+    [{
+      "id":1,
+      "image":"https://www.mercedes-benz.com.tr/vans/tr/vito/_jcr_content/main-parsys/body_type_teaser_gri/parsys/body_type_teaser_90201139/image.mq6.jpg/1596004615000.jpg",
+      "name":"Mercedes Vito",
+      "seats":"9 Seats"
+    },  {
+      "id":2,
+  "image":"https://www.mercedes-benz.com.tr/vans/tr/vito/_jcr_content/main-parsys/body_type_teaser_gri/parsys/body_type_teaser_90201139/image.mq6.jpg/1596004615000.jpg",
+  "name":"Mercedes Vito",
+  "seats":"9 Seats"
+    }, {
+   "id":3,
+  "image":"https://www.mercedes-benz.com.tr/vans/tr/vito/_jcr_content/main-parsys/body_type_teaser_gri/parsys/body_type_teaser_90201139/image.mq6.jpg/1596004615000.jpg",
+  "name":"Mercedes Vito",
+  "seats":"9 Seats"
+   }]
+ 
+}
+

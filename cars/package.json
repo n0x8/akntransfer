@@ -1,0 +1,13 @@
+{
+  "name": "cars",
+  "version": "0.1.0",
+  "private": true,
+  "serve": "node --version",
+  "test": "echo \"Error: no test specified\" && exit 1"
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-eslint": "~5.0.0",
+    "@vue/cli-service": "~5.0.0"
+    
+  }
+}
